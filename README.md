@@ -1,6 +1,4 @@
 # MobilePay-PoS-v10-Client-Reference-Implementation
-This repository contains a Client Reference Implementation for the MobilePay Point-of-Sale v10 API.
+This repository is empty and does not contain help for creating a Client  for the MobilePay Point-of-Sale v10 API.
 
-The software contained in this repository is public, free to use and share.
-
-MobilePay A/S and subsiduaries maintains no obligations and liabilities in its use.
+Please refer to the documentation at https://mobilepaydev.github.io/MobilePay-PoS-v10/ to assistance with creating a suitable client.
